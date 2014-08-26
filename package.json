@@ -1,0 +1,9 @@
+{
+    "name": "mjpegStream",
+    "version": "1.0.0",
+    "dependencies":
+    {
+        "mjpeg-server": "0.2.1",
+        "chokidar": ""
+    }
+}
