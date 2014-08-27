@@ -1,0 +1,3 @@
+[submodule "glacier-cli"]
+	path = glacier-cli
+	url = https://github.com/basak/glacier-cli.git
